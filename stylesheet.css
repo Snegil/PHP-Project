@@ -1,0 +1,16 @@
+body {
+	background-color: dimgray;
+}
+
+#middlebox {
+	position: relative;
+	background-image: url("images/MboxBack.png");
+	background-attachment: fixed;
+	background-repeat: repeat-x;
+	background-size: auto;
+	width: 20%;
+	height: 20%;
+	padding: 10px;
+	margin-left: 40%;
+	margin-right: 40%;
+}
