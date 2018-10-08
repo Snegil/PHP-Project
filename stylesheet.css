@@ -1,5 +1,6 @@
 body {
 	background-color: dimgray;
+	font-family:"Times New Roman", Times, serif;
 }
 
 #middlebox {
@@ -8,9 +9,32 @@ body {
 	background-attachment: fixed;
 	background-repeat: repeat-x;
 	background-size: auto;
-	width: 20%;
-	height: 20%;
+	text-transform: capitalize;
+	width: 40%;
+	height: 40%;
 	padding: 10px;
-	margin-left: 40%;
-	margin-right: 40%;
+	margin-left: 30%;
+	margin-right: 30%;
+}
+
+#topspace {
+	background-color: skyblue;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	font-size: 18px;
+	color: black;
+	height: 10%;
+	text-align: center;
+}
+#botspace {
+	background-color: white;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	font-size: 17px;
+	color black;
+	padding: 5px;
+	height: 90%;
+}
+#botspace input {
+	padding-bottom: 2px;
 }
