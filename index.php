@@ -14,8 +14,8 @@
 		<div id="middlebox">
 			<div id="topspace">
 		<?php
-			$txt = "<q>om något kan gå fel kommer det förr eller senare att göra det.</q>";
-			echo "$txt";
+			$txt = 5;
+			
 			?>
 			</div>
 			<div id="botspace">
