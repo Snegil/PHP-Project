@@ -7,20 +7,19 @@
 		<link rel="stylesheet" type="text/css" href="stylesheet.css">
 	</head>
 	<body>
-	<div id="leftbox">
-	  <form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">
-		Username: <br>
-		<input type="text" name="name"> <br>
-		Password <br>
-		<input type="password" name="pass"> <br>
-		<br>
-		<input type="submit" name="Submit">
-	</form>
-	</div>
-
+<div class="ccontainer">
 		<div id="mainbox">
 			
-		
+			<div id="leftbox">
+	  			<form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">
+				Username: <br>
+				<input type="text" name="name"> <br>
+				Password <br>
+				<input type="password" name="pass"> <br>
+				<br>
+				<input type="submit" name="Submit">
+				</form>
+			</div>
 			
 			<?php
 			// define variables and set to empty values
@@ -51,5 +50,6 @@
 		</div>
 		
 		</div>
+</div>
 	</body>
 </html>
