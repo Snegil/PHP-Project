@@ -3,29 +3,30 @@ body {
 	background-image: url("images/Backgroundrez.png");
 	background-repeat: repeat-y, repeat-x;
 	background-attachment: fixed;
-	background-size: auto;
+	background-size: cover;
 	font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;
 	text-align: center;
 }
 /*To center items within*/
 div.ccontainer {
+	border: 1px solid hotpink;
 	position: relative;
 	text-align: center;
-	width: 100vw;
-	max-width: 100%;
+	width: 100%;
+	height: 200px;
 }
 /*The main box*/
 div#mainbox {
 	position: relative;
-	width: 40vw;
+	max-width: 100%;
 	height: 90vh;
 	border: 0px solid black;
-	background-color: lightgray;
+	/*background-color: lightgray;*/
 	font-size: 20px;
-	text-align: center;
 }
 /*Left box inside mainbox*/
 div#leftbox {
+	border: 1px solid skyblue;
 	position: relative;
 	display: inline-block;
 	padding: 5px;
@@ -39,10 +40,11 @@ div#leftbox {
 }
 /*Information box*/
 div#infobox {
+	border: 1px solid limegreen;
 	display: block;
 	position: relative;
+	max-width: 50%;
 	text-align: center;
-	max-width: 40%;
 	background-color: silver;
 	border: 2px solid black;
 	padding-right: 5px;
