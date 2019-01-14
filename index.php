@@ -8,7 +8,7 @@
 	</head>
 	<body>
 		<img id="logoimg" src="Logo.png">
-		<a href="Datatest/index.html" class="button">Datatest</a>
+		<a href="Datatest/index.php" class="button">Datatest</a>
 		<a href="logintest/index.php" class="button">Logintest</a>
 	</body>
 </html>
