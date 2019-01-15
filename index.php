@@ -8,7 +8,9 @@
 	</head>
 	<body>
 		<img id="logoimg" src="Logo.png">
-		<a href="Datatest/index.php" class="button">Datatest</a>
-		<a href="logintest/index.php" class="button">Logintest</a>
+		<a href="Datatest/index.php" target="_blank" class="button">Datatest</a>
+		<a href="logintest/index.php" target="_blank" class="button">Logintest</a>
+		<a href="Webmall/index.php" target="_blank" class="button">Webmall</a>
+		<a href="test/index.php" target="_blank" class="button">test</a>
 	</body>
 </html>

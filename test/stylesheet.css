@@ -1,0 +1,24 @@
+body {
+	background-image: url("Images/bakgrund22.png");
+	font-family: Arial, Helvetica, sans-serif;
+}
+#container {
+	position:relative;
+	width: 100%;
+}
+#description {
+	box-shadow: 2px 2px dimgray;
+	text-align: center;
+	background-color: black;
+	color: white;
+	font-size: 20px;
+}
+#logotyp {
+	text-align: center;
+	width: 50%;
+	height: 200px;
+}
+.image {
+	width: 200px;
+	height: 100px;
+}

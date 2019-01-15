@@ -1,0 +1,32 @@
+/*Main body*/
+body {
+	background-image: url("Images/bakgrund22.png");
+	background-repeat: repeat:round;
+	background-size: auto;
+	background-attachment: fixed;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 17px;
+	color: black;
+}
+/*Slideshow*/
+#slideshow {
+	position: relative;
+	/*border: 1px solid black;*/
+	height: 50%;
+	width: 100%;
+}
+/*Image*/
+.img {
+	width: 100%;
+	height: 100%;
+}
+/*Box*/
+#box {
+
+}
+#about {
+
+}
+#contact {
+
+}
