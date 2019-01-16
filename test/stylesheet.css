@@ -1,3 +1,4 @@
+/*läger till bakgrunden till <body> taggen*/
 body {
 	background-image: url("Images/bakgrund23.png");
 	font-family: Arial, Helvetica, sans-serif;
@@ -9,7 +10,7 @@ body {
 	width: 70%;
 	margin: auto;
 }
-/*Allt ska vara i wholepage div*/
+/*Allt ska vara i wholepage diven*/
 #wholepage {
 	box-shadow: 5px 5px dimgray;
 	background-color: black;
@@ -32,18 +33,44 @@ body {
 }
 /*Bilden på runez medlemmar*/
 #bandimage {
-	width: 100%;
-	height: 100%;
+	width: 50%;
+	height: 50%;
 }
+/*Om runez*/
 #about {
 	padding: 10px;
+	text-align: left;
 }
-
+/*Infobar håller fast olika saker till ett fast mått*/
+#infobar {
+	width: 100%;
+	height: 80px;
+	margin-bottom: 10px;
+}
+/*Spotify spelaren är i #infobar och den har alla regler*/
+#spotifyI {
+	box-shadow: 2px 2px dimgray;
+}
+/*Facebook loggan*/
+#flogo {
+	margin-right: 5px;
+	height: 80px;
+}
+a {
+	text-decoration: none;
+	color: inherit;
+}
+/*Alla rubriker har en margin som är 0*/
+h1, h2, h3, h4, h5, h6 {
+	margin: 0;
+}
 /* On screens that are 1000px wide or less, make the menu links stack on top of each other instead of next to each other */
 @media screen and (max-width: 1000px) {
+	/*Gör så att när sidan är mindre är 1000px bred att sidan går hela vägen till höger och vänster*/
 	#wholepage {
 		width: 100%;
 	}
+	/*Container*/
 	#container {
 		width: 100%;
 	}

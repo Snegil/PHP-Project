@@ -15,11 +15,18 @@
 				<div id="container">
 						<div id="wholepage">
 								<div id="logotyp">
-										<img class="logoimage" src="Images/runezrocklogoedit.png">
+										<img class="logoimage" src="Images/runezrocklogo.jpg">
 								</div>
-										<img id="bandimage" src="Images/runezrockband2.jpg">						
+										<img id="bandimage" src="Images/runezrockband2.jpg">	
+													
+										<div id="infobar">
+											<a target="_blank" href="https://www.facebook.com/Runez-Rock-109810822368941/">
+											<img id="flogo" alt="Runez Rock finns på facebook!" src="Images/flogo.png">
+											</a>
+											<iframe id="spotifyI" src="https://open.spotify.com/embed/track/40roys5JxjibSvp27c9ts6" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+										</div>
+										
 								<p id="about">
-							
 									<?php
 									    $myfilename = "about.txt";
 									    if(file_exists($myfilename)){
