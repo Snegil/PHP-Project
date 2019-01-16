@@ -1,24 +1,50 @@
 body {
-	background-image: url("Images/bakgrund22.png");
+	background-image: url("Images/bakgrund23.png");
 	font-family: Arial, Helvetica, sans-serif;
 }
+/*Container*/
 #container {
-	position:relative;
-	width: 100%;
-}
-#description {
-	box-shadow: 2px 2px dimgray;
 	text-align: center;
+	position: relative;
+	width: 70%;
+	margin: auto;
+}
+/*Allt ska vara i wholepage div*/
+#wholepage {
+	box-shadow: 5px 5px dimgray;
 	background-color: black;
+	width: 100%;
 	color: white;
 	font-size: 20px;
 }
+/*Håller fast Runez logga*/
 #logotyp {
+	position: -webkit-sticky; /* Safari */
+	position: sticky;
 	text-align: center;
-	width: 50%;
-	height: 200px;
+	width: 100%;
+	height: 100%;
 }
-.image {
+/*Runez logga*/
+.logoimage {
 	width: 200px;
 	height: 100px;
+}
+/*Bilden på runez medlemmar*/
+#bandimage {
+	width: 100%;
+	height: 100%;
+}
+#about {
+	padding: 10px;
+}
+
+/* On screens that are 1000px wide or less, make the menu links stack on top of each other instead of next to each other */
+@media screen and (max-width: 1000px) {
+	#wholepage {
+		width: 100%;
+	}
+	#container {
+		width: 100%;
+	}
 }

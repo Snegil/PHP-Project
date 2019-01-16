@@ -3,7 +3,7 @@
 	<head>
 		<meta name="author" content="Snegil">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<meta charset="utf-8">
+		<meta charset="utf-8" lang="sv">
 		<title>
 			Webmall
 		</title>
@@ -12,21 +12,23 @@
 		<script src="scripts.js"></script>
 	</head>
 	<body>
-		<div id="container">
-				<div id="description">
-						<div id="logotyp">
-								<img class="image" src="Images/runezrocklogoedit.png">
+				<div id="container">
+						<div id="wholepage">
+								<div id="logotyp">
+										<img class="logoimage" src="Images/runezrocklogoedit.png">
+								</div>
+										<img id="bandimage" src="Images/runezrockband2.jpg">						
+								<p id="about">
+							
+									<?php
+									    $myfilename = "about.txt";
+									    if(file_exists($myfilename)){
+									      echo file_get_contents($myfilename);
+									    }
+									?>
+								</p>
+									
 						</div>
-								<img src="Images/runezrock.jpg">
-					
-						
-						<?php
-						    $myfilename = "about.txt";
-						    if(file_exists($myfilename)){
-						      echo file_get_contents($myfilename);
-						    }
-						?>
 				</div>
-		</div>
 	</body>	
 </html>
