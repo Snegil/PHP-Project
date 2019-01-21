@@ -73,7 +73,37 @@ body {
 #flogo {
 	margin-right: 5px;
 	height: 80px;
+	transition-duration: 1.2s;
 }
+#flogo:hover {
+	filter: invert(100%);
+	-webkit-filter: invert(100%);
+}
+.imgR {
+	float: right;
+	margin-right: 5px;
+}
+.imgL {
+	float: left;
+	margin-left: 5px;
+}
+.profilContainer {
+	height: 150px;
+	width: 100%;
+}
+.profilimgcontainerR {
+	text-align: right;
+}
+.profilimgcontainerL {
+	text-align: left;
+}
+.profilTextL {
+	text-align: left;
+}
+.profilTextR {
+	text-align: right;
+}
+/*Alla <a> taggar har ingen dekoration på sig (understräck) och text färgen är inherit*/
 a {
 	text-decoration: none;
 	color: inherit;
