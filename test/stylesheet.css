@@ -87,21 +87,48 @@ body {
 	float: left;
 	margin-left: 5px;
 }
+/*Container för alla "profiler"*/
 .profilContainer {
 	height: 150px;
 	width: 100%;
+	margin-bottom: 5px;
 }
+/*Profilcontainer höger*/
 .profilimgcontainerR {
 	text-align: right;
 }
+/*Profilcontainer vänster*/
 .profilimgcontainerL {
 	text-align: left;
 }
+/*Profiltext vänster*/
 .profilTextL {
 	text-align: left;
 }
+/*Profiltext höger*/
 .profilTextR {
 	text-align: right;
+}
+/*För att kunna stänga av all beskrivnings text*/
+.profiltextdiv {
+}
+#kontaktcontainer {
+	text-align: left;
+	height: 300px;
+	width: 100%;
+}
+#containerkontakt {
+	float: left;
+}
+#kontaktimgcontainer {
+	
+}
+#kontaktimg {
+	width: 150px;
+	height: 150px;
+}
+#kontakttext {
+	margin-left: 5px;
 }
 /*Alla <a> taggar har ingen dekoration på sig (understräck) och text färgen är inherit*/
 a {
@@ -148,5 +175,19 @@ p {
 	#bandimage {
 		width: 100%;
 		height: 100%;
+	}
+}
+@media screen and (max-width: 600px) {
+	.profiltextdiv {
+		display: none;
+	}
+}
+@media screen and (max-width: 510px) {
+	#containerkontakt {
+		float: none;
+	}
+	#kontakttext {
+		display: block;
+		width: 100%;
 	}
 }

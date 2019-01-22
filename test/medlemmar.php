@@ -45,7 +45,9 @@
 											</span>
 											<span class="profilTextL">
 												<h3>namnet ekarlsson</h3>
+												<span class="profiltextdiv">
 												texttexttexttexttexttexttexttexttexttexttexttexttext
+												</span>
 											</span>
 										</div>
 									</div>
@@ -57,12 +59,13 @@
 											</span>
 											<span class="profilTextR">
 												<h3>namnet ekarlsson</h3>
+												<span class="profiltextdiv">
 												texttexttexttexttexttexttexttexttexttexttexttexttext
+												</span>
 											</span>
 										</div>
 									</div>
 									
-																		
 									<div class="profilContainer">			
 										<div class="profilimgcontainerL">
 											<span class="imgL">
@@ -70,12 +73,13 @@
 											</span>
 											<span class="profilTextL">
 												<h3>namnet ekarlsson</h3>
+												<span class="profiltextdiv">
 												texttexttexttexttexttexttexttexttexttexttexttexttext
+												</span>
 											</span>
 										</div>
 									</div>
 									
-											
 									<div class="profilContainer">			
 										<div class="profilimgcontainerR">
 											<span class="imgR">
@@ -83,24 +87,27 @@
 											</span>
 											<span class="profilTextR">
 												<h3>namnet ekarlsson</h3>
+												<span class="profiltextdiv">
 												texttexttexttexttexttexttexttexttexttexttexttexttext
+												</span>
 											</span>
 										</div>
 									</div>
 									
-												<div class="profilContainer">			
+									<div class="profilContainer">			
 										<div class="profilimgcontainerL">
 											<span class="imgL">
 											<img src="Images/profilbild2.png" width="150px" height="150px">
 											</span>
 											<span class="profilTextL">
 												<h3>namnet ekarlsson</h3>
+												<span class="profiltextdiv">
 												texttexttexttexttexttexttexttexttexttexttexttexttext
+												</span>
 											</span>
 										</div>
 									</div>
 									
-											
 									<div class="profilContainer">			
 										<div class="profilimgcontainerR">
 											<span class="imgR">
@@ -108,11 +115,12 @@
 											</span>
 											<span class="profilTextR">
 												<h3>namnet ekarlsson</h3>
+												<span class="profiltextdiv">
 												texttexttexttexttexttexttexttexttexttexttexttexttext
+												</span>
 											</span>
 										</div>
 									</div>
-									
 								</p>
 									
 						</div>

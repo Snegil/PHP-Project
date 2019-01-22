@@ -29,20 +29,26 @@
 								</div>
 										<img id="bandimage" src="Images/runezrockband2.jpg">	
 													
-										<div id="infobar">
+										<!-- <div id="infobar">
 											<a target="_blank" href="https://www.facebook.com/Runez-Rock-109810822368941/">
 											<img id="flogo" alt="Runez Rock finns på facebook!" src="Images/flogo2.png">
 											</a>
 											<iframe id="spotifyI" src="https://open.spotify.com/embed/track/40roys5JxjibSvp27c9ts6" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-										</div>
+										</div> -->
 										
 								<p id="about">
-									<?php
-									    $myfilename = "about.txt";
-									    if(file_exists($myfilename)){
-									      echo file_get_contents($myfilename);
-									    }
-									?>
+										<div id="kontaktcontainer">
+											<div id="containerkontakt"
+												<div id="kontaktimgcontainer">
+													<img id="kontaktimg" src="Images/profilbild2.png">
+												</div>
+												<span id="kontakttext"> 
+													<h3>namn namnsson</h3>
+													gata: gata gatansson <br />
+													Telefon nr: blahblah2949596392
+												</span>
+											 </div>
+										</div>
 								</p>
 									
 						</div>
