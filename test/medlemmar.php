@@ -5,7 +5,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta charset="utf-8" lang="sv">
 		<title>
-			Runez Rock -medlemmar
+			Runez Rock medlemmar
 		</title>
 		<link rel='icon' href='favicon.ico' type='image/x-icon'/ >
 		<link rel="stylesheet" type="text/css" href="stylesheet.css" />
