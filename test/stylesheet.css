@@ -12,7 +12,8 @@ body {
 }
 /*Allt ska vara i wholepage diven*/
 #wholepage {
-	box-shadow: 5px 5px dimgray;
+	box-shadow: 5px 5px 3px dimgray;
+	border-radius: 3px;
 	background-color: black;
 	width: 100%;
 	color: white;
@@ -48,6 +49,7 @@ body {
 }
 /*Bilden på runez medlemmar*/
 #bandimage {
+	border-radius: 5%;
 	width: 50%;
 	height: 50%;
 }
@@ -67,7 +69,7 @@ body {
 }
 /*Spotify spelaren är i #infobar och den har alla regler*/
 #spotifyI {
-	box-shadow: 2px 2px dimgray;
+	box-shadow: 2px 2px 5px #570835;
 }
 /*Facebook loggan*/
 #flogo {
