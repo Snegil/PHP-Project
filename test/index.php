@@ -21,7 +21,7 @@
 									<i class="fas fa-angle-double-left button" title="Medlemmar"></i>
 									</a>
 										<a href="index.php">
-										<img class="logoimage" src="Images/runezrocklogo.jpg">
+										<img class="logoimage" src="Images/runezrocklogoedit.png">
 										</a>
 									<a href="kontakt.php">
 									<i class="fas fa-angle-double-right button" title="Kontakt"></i>

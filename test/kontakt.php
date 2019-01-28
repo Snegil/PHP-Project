@@ -21,7 +21,7 @@
 									<i class="fas fa-angle-double-left button" title="Medlemmar"></i>
 									</a>
 										<a href="index.php">
-										<img class="logoimage" src="Images/runezrocklogo.jpg">
+										<img class="logoimage" src="Images/runezrocklogoedit.png">
 										</a>
 									<a href="kontakt.php">
 									<i class="fas fa-angle-double-right button" title="Kontakt"></i>
@@ -44,8 +44,9 @@
 												</div>
 												<span id="kontakttext"> 
 													<h3>namn namnsson</h3>
-													gata: gata gatansson <br />
-													Telefon nr: blahblah2949596392
+													<a href="https://m.me/109810822368941?fbclid=IwAR3281zfYwgEZI21C7eAMUzB9eoPDa1amhekHLjfJVa8fXoKnqFwm71Jp7A" target="_blank">
+														<img id="flogo" src="Images/mlogo2.png">
+													</a>
 												</span>
 											 </div>
 										</div>

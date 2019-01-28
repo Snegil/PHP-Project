@@ -21,7 +21,7 @@
 									<i class="fas fa-angle-double-left button" title="Medlemmar"></i>
 									</a>
 										<a href="index.php">
-										<img class="logoimage" src="Images/runezrocklogo.jpg">
+										<img class="logoimage" src="Images/runezrocklogoedit.png">
 										</a>
 									<a href="kontakt.php">
 									<i class="fas fa-angle-double-right button" title="Kontakt"></i>
@@ -41,12 +41,12 @@
 									<div class="profilContainer">			
 										<div class="profilimgcontainerL">
 											<span class="imgL">
-											<img src="Images/profilbild2.png" width="150px" height="150px">
+											<img src="Images/Profilbild/PerTEDIT.jpg" width="150px" height="150px">
 											</span>
 											<span class="profilTextL">
-												<h3>namnet ekarlsson</h3>
+												<h3>Per Thilly</h3>
 												<span class="profiltextdiv">
-												texttexttexttexttexttexttexttexttexttexttexttexttext
+												Sång
 												</span>
 											</span>
 										</div>
@@ -55,12 +55,12 @@
 									<div class="profilContainer">			
 										<div class="profilimgcontainerR">
 											<span class="imgR">
-											<img src="Images/profilbild2.png" width="150px" height="150px">
+											<img src="Images/Profilbild/SonnyEDIT.jpg" width="150px" height="150px">
 											</span>
 											<span class="profilTextR">
-												<h3>namnet ekarlsson</h3>
+												<h3>Sonny Olausson</h3>
 												<span class="profiltextdiv">
-												texttexttexttexttexttexttexttexttexttexttexttexttext
+												Gitarr
 												</span>
 											</span>
 										</div>
@@ -69,12 +69,12 @@
 									<div class="profilContainer">			
 										<div class="profilimgcontainerL">
 											<span class="imgL">
-											<img src="Images/profilbild2.png" width="150px" height="150px">
+											<img src="Images/Profilbild/PelleEDIT.jpg" width="150px" height="150px">
 											</span>
 											<span class="profilTextL">
-												<h3>namnet ekarlsson</h3>
+												<h3>Pär Wallin</h3>
 												<span class="profiltextdiv">
-												texttexttexttexttexttexttexttexttexttexttexttexttext
+												Gitarr
 												</span>
 											</span>
 										</div>
@@ -83,12 +83,12 @@
 									<div class="profilContainer">			
 										<div class="profilimgcontainerR">
 											<span class="imgR">
-											<img src="Images/profilbild2.png" width="150px" height="150px">
+											<img src="Images/Profilbild/GoranEDIT.jpg" width="150px" height="150px">
 											</span>
 											<span class="profilTextR">
-												<h3>namnet ekarlsson</h3>
+												<h3>Göran Lidh</h3>
 												<span class="profiltextdiv">
-												texttexttexttexttexttexttexttexttexttexttexttexttext
+												Trummor
 												</span>
 											</span>
 										</div>
@@ -97,12 +97,12 @@
 									<div class="profilContainer">			
 										<div class="profilimgcontainerL">
 											<span class="imgL">
-											<img src="Images/profilbild2.png" width="150px" height="150px">
+											<img src="Images/Profilbild/KennethEDIT.jpg" width="150px" height="150px">
 											</span>
 											<span class="profilTextL">
-												<h3>namnet ekarlsson</h3>
+												<h3>Kenneth Carlsson</h3>
 												<span class="profiltextdiv">
-												texttexttexttexttexttexttexttexttexttexttexttexttext
+												Keyboards
 												</span>
 											</span>
 										</div>
@@ -114,9 +114,9 @@
 											<img src="Images/profilbild2.png" width="150px" height="150px">
 											</span>
 											<span class="profilTextR">
-												<h3>namnet ekarlsson</h3>
+												<h3>Rasmus Thilly</h3>
 												<span class="profiltextdiv">
-												texttexttexttexttexttexttexttexttexttexttexttexttext
+												Bas
 												</span>
 											</span>
 										</div>
