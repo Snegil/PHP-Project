@@ -37,88 +37,91 @@
 										</div>
 										 -->
 								<p id="about">
-									
-									<div class="profilContainer">			
-										<div class="profilimgcontainerL">
-											<span class="imgL">
-											<img src="Images/Profilbild/PerTEDIT.jpg" width="150px" height="150px">
-											</span>
-											<span class="profilTextL">
-												<h3>Per Thilly</h3>
-												<span class="profiltextdiv">
-												Sång
-												</span>
-											</span>
-										</div>
-									</div>
-									
-									<div class="profilContainer">			
-										<div class="profilimgcontainerR">
-											<span class="imgR">
-											<img src="Images/Profilbild/SonnyEDIT.jpg" width="150px" height="150px">
-											</span>
-											<span class="profilTextR">
-												<h3>Sonny Olausson</h3>
-												<span class="profiltextdiv">
-												Gitarr
-												</span>
-											</span>
-										</div>
-									</div>
-									
-									<div class="profilContainer">			
-										<div class="profilimgcontainerL">
-											<span class="imgL">
-											<img src="Images/Profilbild/PelleEDIT.jpg" width="150px" height="150px">
-											</span>
-											<span class="profilTextL">
-												<h3>Pär Wallin</h3>
-												<span class="profiltextdiv">
-												Gitarr
-												</span>
-											</span>
-										</div>
-									</div>
-									
-									<div class="profilContainer">			
-										<div class="profilimgcontainerR">
-											<span class="imgR">
-											<img src="Images/Profilbild/GoranEDIT.jpg" width="150px" height="150px">
-											</span>
-											<span class="profilTextR">
-												<h3>Göran Lidh</h3>
-												<span class="profiltextdiv">
-												Trummor
-												</span>
-											</span>
-										</div>
-									</div>
-									
-									<div class="profilContainer">			
-										<div class="profilimgcontainerL">
-											<span class="imgL">
-											<img src="Images/Profilbild/KennethEDIT.jpg" width="150px" height="150px">
-											</span>
-											<span class="profilTextL">
-												<h3>Kenneth Carlsson</h3>
-												<span class="profiltextdiv">
-												Keyboards
-												</span>
-											</span>
-										</div>
-									</div>
-									
-									<div class="profilContainer">			
-										<div class="profilimgcontainerR">
-											<span class="imgR">
-											<img src="Images/profilbild2.png" width="150px" height="150px">
-											</span>
-											<span class="profilTextR">
-												<h3>Rasmus Thilly</h3>
-												<span class="profiltextdiv">
-												Bas
-												</span>
-											</span>
+									<div class="center">
+										<div id="box">
+											<div class="profilContainer">			
+												<div class="profilimgcontainerL">
+													<span class="imgL">
+													<img src="Images/Profilbild/PerTEDIT.jpg" width="150px" height="150px">
+													</span>
+													<span class="profilTextL">
+														<h3>Per Thilly</h3>
+														<span class="profiltextdiv">
+														Sång
+														</span>
+													</span>
+												</div>
+											</div>
+											
+											<div class="profilContainer">			
+												<div class="profilimgcontainerR">
+													<span class="imgR">
+													<img src="Images/Profilbild/SonnyEDIT.jpg" width="150px" height="150px">
+													</span>
+													<span class="profilTextR">
+														<h3>Sonny Olausson</h3>
+														<span class="profiltextdiv">
+														Gitarr
+														</span>
+													</span>
+												</div>
+											</div>
+											
+											<div class="profilContainer">			
+												<div class="profilimgcontainerL">
+													<span class="imgL">
+													<img src="Images/Profilbild/PelleEDIT.jpg" width="150px" height="150px">
+													</span>
+													<span class="profilTextL">
+														<h3>Pär Wallin</h3>
+														<span class="profiltextdiv">
+														Gitarr
+														</span>
+													</span>
+												</div>
+											</div>
+											
+											<div class="profilContainer">			
+												<div class="profilimgcontainerR">
+													<span class="imgR">
+													<img src="Images/Profilbild/GoranEDIT.jpg" width="150px" height="150px">
+													</span>
+													<span class="profilTextR">
+														<h3>Göran Lidh</h3>
+														<span class="profiltextdiv">
+														Trummor
+														</span>
+													</span>
+												</div>
+											</div>
+											
+											<div class="profilContainer">			
+												<div class="profilimgcontainerL">
+													<span class="imgL">
+													<img src="Images/Profilbild/KennethEDIT.jpg" width="150px" height="150px">
+													</span>
+													<span class="profilTextL">
+														<h3>Kenneth Carlsson</h3>
+														<span class="profiltextdiv">
+														Keyboards
+														</span>
+													</span>
+												</div>
+											</div>
+											
+											<div class="profilContainer">			
+												<div class="profilimgcontainerR">
+													<span class="imgR">
+													<img src="Images/profilbild2.png" width="150px" height="150px">
+													</span>
+													<span class="profilTextR">
+														<h3>Rasmus Thilly</h3>
+														<span class="profiltextdiv">
+														Bas
+														</span>
+													</span>
+												</div>
+											</div>
 										</div>
 									</div>
 								</p>
