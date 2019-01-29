@@ -9,6 +9,7 @@
 		</title>
 		<link rel='icon' href='favicon.ico' type='image/x-icon'/ >
 		<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+		<link rel="stylesheet" type="text/css" href="https://csshake.surge.sh/csshake.css" />
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 		<script src="scripts.js"></script>
@@ -41,7 +42,7 @@
 											<div class="profilContainer">			
 												<div class="profilimgcontainerL">
 													<span class="imgL">
-													<img src="Images/Profilbild/PerTEDIT.jpg" width="150px" height="150px">
+													<img class="shake-slow" src="Images/Profilbild/PerTEDIT.jpg" width="150px" height="150px">
 													</span>
 													<span class="profilTextL">
 														<h3>Per Thilly</h3>
@@ -56,7 +57,7 @@
 											<div class="profilContainer">			
 												<div class="profilimgcontainerR">
 													<span class="imgR">
-													<img src="Images/Profilbild/SonnyEDIT.jpg" width="150px" height="150px">
+													<img class="shake-slow" src="Images/Profilbild/SonnyEDIT.jpg" width="150px" height="150px">
 													</span>
 													<span class="profilTextR">
 														<h3>Sonny Olausson</h3>
@@ -71,7 +72,7 @@
 											<div class="profilContainer">			
 												<div class="profilimgcontainerL">
 													<span class="imgL">
-													<img src="Images/Profilbild/PelleEDIT.jpg" width="150px" height="150px">
+													<img class="shake-slow" src="Images/Profilbild/PelleEDIT.jpg" width="150px" height="150px">
 													</span>
 													<span class="profilTextL">
 														<h3>Pär Wallin</h3>
@@ -86,7 +87,7 @@
 											<div class="profilContainer">			
 												<div class="profilimgcontainerR">
 													<span class="imgR">
-													<img src="Images/Profilbild/GoranEDIT.jpg" width="150px" height="150px">
+													<img class="shake-slow" src="Images/Profilbild/GoranEDIT.jpg" width="150px" height="150px">
 													</span>
 													<span class="profilTextR">
 														<h3>Göran Lidh</h3>
@@ -101,7 +102,7 @@
 											<div class="profilContainer">			
 												<div class="profilimgcontainerL">
 													<span class="imgL">
-													<img src="Images/Profilbild/KennethEDIT.jpg" width="150px" height="150px">
+													<img class="shake-slow" src="Images/Profilbild/KennethEDIT.jpg" width="150px" height="150px">
 													</span>
 													<span class="profilTextL">
 														<h3>Kenneth "Tjabbe" Carlsson</h3>
@@ -116,7 +117,7 @@
 											<div class="profilContainer">			
 												<div class="profilimgcontainerR">
 													<span class="imgR">
-													<img src="Images/profilbild2.png" width="150px" height="150px">
+													<img class="shake-slow" src="Images/profilbild2.png" width="150px" height="150px">
 													</span>
 													<span class="profilTextR">
 														<h3>Rasmus Thilly</h3>

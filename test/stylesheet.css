@@ -101,12 +101,16 @@ body {
 	-webkit-filter: invert(50%);
 }
 .imgR {
+	border-radius: 150px;
 	float: right;
 	margin-right: 5px;
+	transition-duration 5s;
 }
 .imgL {
+	border-radius: 150px;
 	float: left;
 	margin-left: 5px;
+	transition-duration 5s;
 }
 /*Container för alla "profiler"*/
 .profilContainer {
@@ -135,9 +139,11 @@ body {
 .profiltextdiv {
 }
 #kontaktcontainer {
+	display: inline-block;
 	text-align: left;
 	height: 500px;
 	width: 400px;
+	transition-duration: 5s;
 }
 #containerkontakt {
 	float: left;
