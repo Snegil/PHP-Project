@@ -36,9 +36,8 @@
 											<iframe id="spotifyI" src="https://open.spotify.com/embed/track/40roys5JxjibSvp27c9ts6" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 										</div>
 										 -->
-								<p id="about">
+								<p id="About">
 									<div class="center">
-										<div id="box">
 											<div class="profilContainer">			
 												<div class="profilimgcontainerL">
 													<span class="imgL">
@@ -47,7 +46,8 @@
 													<span class="profilTextL">
 														<h3>Per Thilly</h3>
 														<span class="profiltextdiv">
-														Sång
+														Sång <br />
+														Text text text text text lorem lipsum blablabla
 														</span>
 													</span>
 												</div>
@@ -61,7 +61,8 @@
 													<span class="profilTextR">
 														<h3>Sonny Olausson</h3>
 														<span class="profiltextdiv">
-														Gitarr
+														Gitarr <br />
+														Text text text text text lorem lipsum blablabla
 														</span>
 													</span>
 												</div>
@@ -75,7 +76,8 @@
 													<span class="profilTextL">
 														<h3>Pär Wallin</h3>
 														<span class="profiltextdiv">
-														Gitarr
+														Gitarr <br />
+														Text text text text text lorem lipsum blablabla
 														</span>
 													</span>
 												</div>
@@ -89,7 +91,8 @@
 													<span class="profilTextR">
 														<h3>Göran Lidh</h3>
 														<span class="profiltextdiv">
-														Trummor
+														Trummor <br />
+														Text text text text text lorem lipsum blablabla
 														</span>
 													</span>
 												</div>
@@ -101,9 +104,10 @@
 													<img src="Images/Profilbild/KennethEDIT.jpg" width="150px" height="150px">
 													</span>
 													<span class="profilTextL">
-														<h3>Kenneth Carlsson</h3>
+														<h3>Kenneth "Tjabbe" Carlsson</h3>
 														<span class="profiltextdiv">
-														Keyboards
+														Keyboards <br />
+														Text text text text text lorem lipsum blablabla
 														</span>
 													</span>
 												</div>
@@ -117,7 +121,8 @@
 													<span class="profilTextR">
 														<h3>Rasmus Thilly</h3>
 														<span class="profiltextdiv">
-														Bas
+														Bas <br />
+														Text text text text text lorem lipsum blablabla
 														</span>
 													</span>
 												</div>
