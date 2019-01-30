@@ -117,7 +117,7 @@
 											<div class="profilContainer">			
 												<div class="profilimgcontainerR">
 													<span class="imgR">
-													<img class="shake-slow" src="Images/profilbild2.png" width="150px" height="150px">
+													<img class="shake-slow" src="Images/Profilbild/RasmusEDIT2.jpg" width="150px" height="150px">
 													</span>
 													<span class="profilTextR">
 														<h3>Rasmus Thilly</h3>

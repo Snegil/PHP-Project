@@ -96,7 +96,7 @@ body {
 #mlogo:hover {
 	-ms-transform: rotate(10deg); /* IE 9 */
 	-webkit-transform: rotate(10deg); /* Safari 3-8 */
-	transform: rotate(10deg);
+	transform: rotate(20deg);
 	filter: invert(50%);
 	-webkit-filter: invert(50%);
 }
@@ -115,6 +115,7 @@ body {
 /*Container för alla "profiler"*/
 .profilContainer {
 	display: inline-block;
+	border-bottom: 2px ridge dimgray;
 	height: 150px;
 	width: 75%;
 	margin-bottom: 5px;
