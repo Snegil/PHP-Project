@@ -12,11 +12,14 @@ a {
 	text-decoration: none;
 	color: white;
 	margin: 1px;
+	transition-duration: 2s;
 }
 a:hover {
-	color: blue;
+	color: crimson;
+	background-color: crimson;
+	border: 1px dashed dimgray;
 }
 .button {
-	background-color: dimgray;
+	background-color: #000000;
 	padding: 3px;
 }
