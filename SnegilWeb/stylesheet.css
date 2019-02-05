@@ -1,10 +1,23 @@
+/*body used for background image and padding*/
 body {
 	background-image: url("Images/Background.png");
 	padding: 5px;
 }
+/*The box where cookie shows stuff*/
+#details {
+	float: right;
+	background-color: rgba(175, 175, 175, 1.00);
+	color: black;
+	position: -webkit-sticky; /* Safari */
+	position: sticky;
+	margin-top: 8px;
+	top: 0;
+	height: 20px;
+}
+/*The container containing logo and stuff*/
 #topContainer {
-	background-color: lightgray;
-	height: 100%;
+	background-image: url("Images/Piskelbackground.png");
+	background-repeat: round;
 	width: 99%;
 	box-shadow: 5px 5px 3px black;
 	border-right: 2px solid black;
@@ -12,8 +25,15 @@ body {
 	border-top: 1px solid black;
 	border-bottom: 1px solid black;
 	margin-right: 2px;
-	padding-left: 2px;
+	padding-left: 0px;
 	padding-right: 2px;
+}
+/*Bottom container containing text*/
+#bottomContainer {
+	padding: 5px;
+	width: 99%;
+	margin-top: 8px;
+	background-color: dimgray;
 }
 #logocontainer {
 	height: 40px;
@@ -32,7 +52,36 @@ body {
 	margin: 0;
 }
 #text {
-	background-color: lightgray;
+	text-shadow: 2px 2px black;
+	color: white;
 	font-family: papyrus;
 	font-size: 60px;
+}
+#navigationbar {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	height: 20px;
+}
+.button {
+	border-radius: 5px;
+	height: 30px;
+	padding: 5px;
+	color: #95D679;
+	background-color: black;
+	width: 20px;
+	transition-duration: 0.5s;
+}
+.button:hover {
+	background-color: #000000;
+	color: #95D679;
+	text-shadow: 2px 2px dimgray;
+}
+#textarea {
+	padding: 2px;
+	height: 100%;
+	background-color: lightgray;
+}
+a {
+	text-decoration: none;
+	color: inherit;
 }
