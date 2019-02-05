@@ -1,0 +1,38 @@
+body {
+	background-image: url("Images/Background.png");
+	padding: 5px;
+}
+#topContainer {
+	background-color: lightgray;
+	height: 100%;
+	width: 99%;
+	box-shadow: 5px 5px 3px black;
+	border-right: 2px solid black;
+	border-left: 2px solid black;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	margin-right: 2px;
+	padding-left: 2px;
+	padding-right: 2px;
+}
+#logocontainer {
+	height: 40px;
+	width: 40px;
+}
+.logo {
+	box-shadow: 5px 5px 3px black;
+	display: inline-block;
+	margin-right: 5px;
+	height: 40px;
+	width: 40px;
+}
+.maplelegendsChar {
+	float: right;
+	height: 75px;
+	margin: 0;
+}
+#text {
+	background-color: lightgray;
+	font-family: papyrus;
+	font-size: 60px;
+}

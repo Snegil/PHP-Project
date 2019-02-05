@@ -1,0 +1,13 @@
+body {
+	background-color: #fff;
+	text-align: center;
+}
+#id1 {
+	display: inline-block;
+}
+#id2 {
+	display: none;
+}
+#id3 {
+	display: none;
+}
