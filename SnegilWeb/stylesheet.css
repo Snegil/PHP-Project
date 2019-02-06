@@ -16,8 +16,9 @@ body {
 }
 /*The container containing logo and stuff*/
 #topContainer {
-	background-image: url("Images/Piskelbackground.png");
+	background-image: url("Images/GifBackgroundPiskel.gif");
 	background-repeat: round;
+	background-size: auto;
 	width: 99%;
 	box-shadow: 5px 5px 3px black;
 	border-right: 2px solid black;
@@ -58,28 +59,29 @@ body {
 	font-size: 60px;
 }
 #navigationbar {
+	background-color: dimgray;
 	margin-top: 10px;
 	margin-bottom: 10px;
-	height: 20px;
+	height: 100%;
 }
 .button {
 	border-radius: 5px;
-	height: 30px;
+	height: 100%;
 	padding: 5px;
-	color: #95D679;
-	background-color: black;
+	color: #FFF;
+	/*background-color: black;*/
+	font-size: auto;
 	width: 20px;
 	transition-duration: 0.5s;
 }
 .button:hover {
-	background-color: #000000;
 	color: #95D679;
-	text-shadow: 2px 2px dimgray;
+	text-shadow: 2px 2px black;
 }
 #textarea {
 	padding: 2px;
 	height: 100%;
-	background-color: lightgray;
+	color: white;
 }
 a {
 	text-decoration: none;
